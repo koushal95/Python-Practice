@@ -1,0 +1,2 @@
+Find the in-order successor of an input node in a binary search tree.
+An in-order successor of an input node is the smallest node greater than the input node.
